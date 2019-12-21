@@ -1,1 +1,2 @@
-
+def loo():
+  print('Hello')
